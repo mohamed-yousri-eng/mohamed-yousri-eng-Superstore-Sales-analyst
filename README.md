@@ -12,11 +12,17 @@ How can shipping and inventory be optimized?
 
 ### 🔹 Main Objectives:
 ✅ Identify top-performing products, regions, and customers
+
 ✅ Uncover trends, seasonality, and growth opportunities
+
 ✅ Maximizing Sales Performance
+
 ✅ Understanding Customer Segments & Buying Behavior
+
 ✅ Optimizing Shipping & Delivery Times
+
 ✅ Identifying Top-Selling Products & Market Trends
+
 ✅ Forecast & Anticipating Market Demand (Sales - Customers - Orders)
 
 ---
