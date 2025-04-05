@@ -3,11 +3,21 @@
 ## 📌 **Project Overview**  
 This project aims to analyze sales performance, customer behavior, and shipping efficiency for a **retail superstore**. By leveraging **Power BI** and data analysis techniques, the project provides **actionable insights** to optimize sales strategies, inventory management, and customer retention.  
 
-### **Key Objectives:**  
-✅ Identify sales trends across different **regions, categories, and time periods**.  
-✅ Analyze **customer segmentation** to improve marketing strategies.  
-✅ Optimize **shipping & logistics** by reducing delivery delays.  
-✅ Provide **data-driven recommendations** for better decision-making.  
+### Define the Business Problem & Objectives
+🔹 Business Problem:
+How can we optimize sales performance and profitability?
+What are the key sales trends and customer behaviors?
+How can shipping and inventory be optimized?
+
+
+### 🔹 Main Objectives:
+✅ Identify top-performing products, regions, and customers
+✅ Uncover trends, seasonality, and growth opportunities
+✅ Maximizing Sales Performance
+✅ Understanding Customer Segments & Buying Behavior
+✅ Optimizing Shipping & Delivery Times
+✅ Identifying Top-Selling Products & Market Trends
+✅ Forecast & Anticipating Market Demand (Sales - Customers - Orders)
 
 ---
 
