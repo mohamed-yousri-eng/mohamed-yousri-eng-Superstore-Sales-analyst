@@ -51,7 +51,7 @@ How can shipping and inventory be optimized?
 ---
 
 ## 📂 **Dataset Information**  
-This project utilizes a **Superstore Sales dataset** containing **9,800 sales records** with **18 columns**:  
+This project utilizes a **Superstore Sales dataset** :  
 
 | Category          | Columns Included | Description |
 |------------------|----------------|-------------|
@@ -59,7 +59,6 @@ This project utilizes a **Superstore Sales dataset** containing **9,800 sales re
 | **Customer Info** | Customer ID, Customer Name, Segment | Helps analyze customer segmentation |
 | **Geographic Data** | Country, City, State, Region, Postal Code | Used for regional sales comparisons |
 | **Product Data** | Product ID, Product Name, Category, Sub-Category | Tracks product performance |
-| **Financial Metrics** | Sales Amount, Profit (Future Enhancement), Discount | Determines revenue impact |
 
 ---
 
@@ -86,13 +85,8 @@ This project utilizes a **Superstore Sales dataset** containing **9,800 sales re
 - Find **delays in shipment & delivery** times.  
 - Compare **shipping modes (Standard, First-Class, Same-Day)** for efficiency.  
 
----
-
-## 🔮 **Future Enhancements**  
-🔹 **Profit & Discount Analysis** – Assess pricing strategies for maximizing revenue.  
-🔹 **Predictive Analytics** – Use **machine learning** to forecast future sales trends.  
-🔹 **AI-Driven Inventory Optimization** – Ensure products are **always in stock** based on demand forecasts.  
-
+## **Step 5: **Predictive Analytics** 
+– Use **machine learning** to forecast future sales trends.  
 
 ---
 
