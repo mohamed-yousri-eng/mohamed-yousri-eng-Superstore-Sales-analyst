@@ -41,7 +41,7 @@ How can shipping and inventory be optimized?
 ### **3. Regional & Market Analysis**  
 🌍 Compare sales across **regions, states, and cities** to identify growth areas.  
 🛒 Understand **market demand variations** by location.  
-📦 Detect inventory gaps based on **regional purchasing trends**.  
+📦 Compare regional purchasing trends.  
 
 ### **4. Order Processing & Shipping Optimization**  
 🚚 Evaluate **order fulfillment times** and delivery efficiency.  
